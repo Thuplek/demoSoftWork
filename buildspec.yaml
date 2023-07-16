@@ -13,9 +13,9 @@ phases:
       #  - yarn test
       - echo Building...
       - npm run build
-      # - aws s3 sync build/ s3://tranposte-front-end
+      - aws s3 sync build/ s3://demoSoftWorks
 artifacts:
   files:
     - "**/*"
   discard-paths: no
-  base-directory: build
+  base-directory: build 
