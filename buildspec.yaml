@@ -13,7 +13,6 @@ phases:
       #  - yarn test
       - echo Building...
       - npm run build
-      - aws s3 sync build/ s3://demoSoftWorks
 artifacts:
   files:
     - "**/*"
