@@ -1,0 +1,134 @@
+[
+  {
+    "status": "Em Preparação",
+    "data": "2023-01-06",
+    "cliente": "João",
+    "nrProposta": 1,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 1",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Em Preparação",
+    "data": "2023-06-07",
+    "cliente": "João",
+    "nrProposta": 2,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 1",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Em Preparação",
+    "data": "2023-07-06",
+    "cliente": "João",
+    "nrProposta": 3,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 2",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Aprovada",
+    "data": "2023-07-10",
+    "cliente": "João",
+    "nrProposta": 4,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 2",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Recusada",
+    "data": "2023-07-10",
+    "cliente": "João",
+    "nrProposta": 5,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 3",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Aprovada",
+    "data": "2023-07-10",
+    "cliente": "João",
+    "nrProposta": 6,
+    "elaborador": "Lurdes",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 3",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Aprovada",
+    "data": "2023-07-10",
+    "cliente": "João",
+    "nrProposta": 7,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 4",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Aprovada",
+    "data": "2023-07-10",
+    "cliente": "João",
+    "nrProposta": 8,
+    "elaborador": "Lurdes",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 4",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Aprovada",
+    "data": "2023-06-12",
+    "cliente": "João",
+    "nrProposta": 9,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 4",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Aprovada",
+    "data": "2023-05-05",
+    "cliente": "João",
+    "nrProposta": 10,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 5",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Em Preparação",
+    "data": "2023-06-07",
+    "cliente": "João",
+    "nrProposta": 11,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 1",
+    "equipe": "Equipe 1"
+  },
+  {
+    "status": "Em Preparação",
+    "data": "2023-06-07",
+    "cliente": "João",
+    "nrProposta": 12,
+    "elaborador": "Maria",
+    "conceito": "Conceito 1",
+    "assunto": "Assunto 1",
+    "executivo": "Executivo 1",
+    "equipe": "Equipe 1"
+  }
+]

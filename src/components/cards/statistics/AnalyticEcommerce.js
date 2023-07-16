@@ -68,3 +68,4 @@ AnalyticEcommerce.defaultProps = {
 };
 
 export default AnalyticEcommerce;
+
